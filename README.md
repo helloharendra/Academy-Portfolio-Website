@@ -14,7 +14,7 @@
 # Demo
 
 
-https://academy-portfolio-website.vercel.app/#contact
+https://academy-portfolio-website.vercel.app
 
 ---
 ## ✨ Features
