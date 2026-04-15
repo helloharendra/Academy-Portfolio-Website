@@ -11,8 +11,7 @@
 > A modern, responsive portfolio website built with React — featuring Hero section, About, Course catalog, Testimonials, and key Features. Perfect to showcase student work, achievements, and course offerings.
 
 ---
-# Demo
-
+# Live Demo
 
 https://academy-portfolio-website.vercel.app
 
